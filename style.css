@@ -1,0 +1,20 @@
+html {
+    width:80%;
+    margin: auto auto;
+}
+
+#paypal {
+    margin-top: 5vh;
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center; /* Centers vertically */
+    height: 20vh; /* Adjust the height as needed */
+}
+
+input {
+    display: block;
+    margin: 0 auto;
+    padding-top: 1vh;
+    padding-bottom: 1vh
+}
+
